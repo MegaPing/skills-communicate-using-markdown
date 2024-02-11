@@ -10,3 +10,11 @@ this will be regular-sized text, not a heading!
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+## Now I'm gonna make a checklist!
+
+- [X] Turn on GitHub pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+Okay, done!
